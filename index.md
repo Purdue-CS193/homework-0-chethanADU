@@ -1,4 +1,4 @@
-## _Chethan Adusumilli's First CS193 Homework_
+## _<Chethan Adusumilli>'s First CS193 Homework_
 
 In this homework I will be talking about my favorite things about CS193!
 
